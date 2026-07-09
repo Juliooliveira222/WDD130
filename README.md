@@ -18,11 +18,11 @@
         <h1> JULIO OLIVEIRA | WDD130</h1>
         <img src="imagens/perfil.png" alt="Foto de Perfil Julio" width="200">
         <p>Olá meu nome é Júlio tenho 35 anos, Sou natural de Estância-SE. Atualmente moro em
-            Caçapava-SP, onde estou por cerca 7 anos.</p>
-    </main>
+            Caçapava-SP, onde estou por cerca 7 anos.<p>
+    <main>
          
     <footer>
-        <p>©2026 🌴 Júlio Oliveira 🌴 Caçapava-SP, Brasil</p>
+        <p>©2026 🌴 Júlio Oliveira 🌴 Caçapava-SP, Brasil<p>
     </footer>
 
 </body>
