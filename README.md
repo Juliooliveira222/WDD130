@@ -21,8 +21,8 @@
             Caçapava-SP, onde estou por cerca 7 anos.</p>
     <main/>
       <footer>  
-        ©2026 🌴 Júlio Oliveira 🌴 Caçapava-SP, Brasil 
-     </footer>  
+          ©2026 🌴 Júlio Oliveira 🌴 Caçapava-SP, Brasil
+      </footer>
         
 </body>
     
