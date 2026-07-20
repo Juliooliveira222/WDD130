@@ -1,7 +1,8 @@
-/* resetar meu cssdo meu pc*/
+/* resetar meu cssdo meu projeto*/
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 nav {
@@ -38,10 +39,6 @@ main {
 
 aside {
     width: 20rem;
-    margin: 1rem;
-    border: 1px solid rgb(0 0 0 / 0.2);
-    padding: 1rem;
-    background-color: #eee;
     color: #333;
     text-align: center;
 }
@@ -56,4 +53,13 @@ footer {
     border-top: 1px solid #000;
     text-align: center;
 
+}
+
+/* Seletores de classe */
+
+.Caixa {
+    border: 1px solid rgb(0 0 0 / 0.2);
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #eee;
 }
