@@ -86,4 +86,8 @@ h1 {
     background-color: var(--cor-destaque2);
     color: var(--cor-primaria);
     opacity: 0.9;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
 }
